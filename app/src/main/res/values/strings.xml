@@ -1,0 +1,50 @@
+<resources>
+    <string name="app_name">Actimo</string>
+    <string name="quick_share">Instant Share</string>
+    <string name="quick_browser">Open in Browser</string>
+    <string name="overflow_news_text">for details, install the app right now:</string>
+    <string name="share_with_that">Share with…</string>
+    <string name="user_name">username</string>
+    <string name="settings">Settings</string>
+
+
+    <string-array name="News_Resources">
+        <item>Al Jazeera English</item>
+        <item>BBC News</item>
+        <item>CNBC</item>
+        <item>CNN</item>
+        <item>Daily Mail</item>
+        <item>Financial Times</item>
+        <item>FourFourTwo</item>
+        <item>Google News</item>
+        <item>IGN</item>
+        <item>Independent</item>
+        <item>National Geographic</item>
+        <item>TechCrunch</item>
+        <item>The Economist</item>
+        <item>The Guardian</item>
+        <item>The New York Times</item>
+        <item>The Telegraph</item>
+        <item>The Washington Post</item>
+    </string-array>
+
+    <string-array name="News_Links">
+        <item>al-jazeera-english</item>
+        <item>bbc-news</item>
+        <item>cnbc</item>
+        <item>cnn</item>
+        <item>daily-mail</item>
+        <item>financial-times</item>
+        <item>four-four-two</item>
+        <item>google-news</item>
+        <item>ign</item>
+        <item>independent</item>
+        <item>national-geographic</item>
+        <item>techcrunch</item>
+        <item>the-economist</item>
+        <item>the-guardian</item>
+        <item>the-new-york-times</item>
+        <item>the-telegraph</item>
+        <item>the-washington-post</item>
+    </string-array>
+</resources>
